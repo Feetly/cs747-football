@@ -1,0 +1,5 @@
+https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2023/
+https://en.wikipedia.org/wiki/Markov_decision_process
+https://www.geeksforgeeks.org/markov-decision-process/
+https://pymdptoolbox.readthedocs.io/en/latest/api/mdp.html
+https://www.coin-or.org/PuLP/index.html
